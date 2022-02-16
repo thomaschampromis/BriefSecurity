@@ -1,0 +1,10 @@
+030d8f,127.0.0.1,GET,http://localhost/projets/securityBrief/public/,1645026511,,200
+508fa8,127.0.0.1,GET,http://localhost/projets/securityBrief/public/,1645026534,,200
+d6e828,127.0.0.1,GET,http://localhost/projets/securityBrief/public/index,1645026537,a23ee7,404
+a23ee7,127.0.0.1,GET,http://localhost/projets/securityBrief/public/index,1645026537,,404
+29bfca,127.0.0.1,GET,http://localhost/projets/securityBrief/public/all,1645026543,,200
+a3c1c0,127.0.0.1,GET,http://localhost/projets/securityBrief/public/,1645026826,,200
+655225,127.0.0.1,GET,http://localhost/projets/securityBrief/public/hello?username=frfgre,1645026828,,200
+3c3132,127.0.0.1,GET,http://localhost/projets/securityBrief/public/search,1645026843,,200
+4d82c2,127.0.0.1,GET,http://localhost/projets/securityBrief/public/search?username=ffezfze,1645026845,,200
+67b7e5,127.0.0.1,GET,http://localhost/projets/securityBrief/public/,1645026952,,200
